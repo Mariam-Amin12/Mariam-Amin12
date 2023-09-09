@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Amin Amin</h1>
-<h3 align="center">I'm a 2nd year Computer Engineering Student at Cairo University, Faculty of Engineering. I'mmajoring in Computer Engineering</h3>
+<h3 align="center">I'm a 2nd year Computer Engineering Student at Cairo University, Faculty of Engineering. I'm majoring in Computer Engineering ⚡🔭</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
