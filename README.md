@@ -88,7 +88,7 @@
 <div>
 <p align="center">
     <a href="https://github.com/Mariam-Amin12">
-      <img  src="https://github-readme-stats.vercel.app/api?username=Mariam-Amin12&show_icons=true&theme=cobalt&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="40%"/>
+      <img  src="https://github-readme-stats.vercel.app/api?username=Mariam-Amin12&show_icons=true&theme=cobalt&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="39%"/>
     </a>
   <a href="https://github.com/Mariam-Amin12">
     <img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Amin12&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="60%"/>
